@@ -1,0 +1,25 @@
+{
+  "name": "github-workshop",
+  "version": "1.0.0",
+  "description": "GitHub Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vfrancov/github-workshop.git"
+  },
+  "keywords": [
+    "Workshop"
+  ],
+  "author": "Ing VfrancoV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vfrancov/github-workshop/issues"
+  },
+  "homepage": "https://github.com/vfrancov/github-workshop#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
